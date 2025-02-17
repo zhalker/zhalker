@@ -5,16 +5,17 @@ I am a **Full Stack Web Developer Analyst** with experience in the real estate s
 🌐 Some projects I have worked on:
 - [APINET](https://www.apinet.net/)
 - [COAPI](https://www.coapi.es/)
+- [FORALISTA](https://www.foralista.com/)
+- [INMOTEK](https://www.inmotek.com/)
 
 ---
 
 ## 🚀 About Me
-🔹 **Experience:** 6 years developing applications in **PHP** and **JavaScript**.  
-🔹 **Education:** Higher Technician in **Networked Computer Systems Administration** and **Multiplatform Application Development**.  
-🔹 **Backend:** I use **Laravel** as my main framework.  
-🔹 **Frontend:** I work with **pure JavaScript**, always applying best practices.  
-🔹 **Databases:** MySQL, MariaDB, and SQLite.  
-🔹 **Cloud & DevOps:** No experience at the moment, but eager to learn.
+🔹 **Experience:** 6 years developing applications in **PHP** and **JavaScript**.
+🔹 **Education:** Higher Technician in **Networked Computer Systems Administration** and **Multiplatform Application Development**.
+🔹 **Backend:** I use **Laravel** as my main framework.
+🔹 **Frontend:** I work with **pure JavaScript**, always applying best practices.
+🔹 **Databases:** MySQL, MariaDB, and SQLite.
 
 ---
 
