@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Anthony Nuñez
+# 👋 Hello! I'm Zhalker
 
 I am a **Full Stack Web Developer Analyst** with experience in the real estate sector. I am currently working at **SARESOFT** and **FORALISTA**, and I have contributed to the development of platforms and websites for the **College of Real Estate Agents of Gipuzkoa and Bizkaia**.
 
@@ -11,7 +11,7 @@ I am a **Full Stack Web Developer Analyst** with experience in the real estate s
 ---
 
 ## 🚀 About Me
-🔹 **Experience:** 6 years developing applications in **PHP** and **JavaScript**.  
+🔹 **Experience:** 7 years developing applications in **PHP** and **JavaScript**.  
 🔹 **Education:** Higher Technician in **Networked Computer Systems Administration** and **Multiplatform Application Development**.  
 🔹 **Backend:** I use **Laravel** as my main framework.  
 🔹 **Frontend:** I work with **pure JavaScript**, always applying best practices.  
@@ -29,9 +29,5 @@ I am a **Full Stack Web Developer Analyst** with experience in the real estate s
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
-## 📫 Contact
-📌 **LinkedIn:** [Anthony Nuñez Huamani](https://es.linkedin.com/in/anthony-nu%C3%B1ez-huamani-9b7440187)  
-📌 **Email:** [willdine7@gmail.com](mailto:willdine7@gmail.com)
 
 Thanks for visiting my profile! 🚀
